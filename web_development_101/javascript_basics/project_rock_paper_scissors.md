@@ -449,7 +449,10 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Ghareebovich's Solution](https://ghareebovich.github.io/Rock-Paper-Scissor-Game/)
 - [Colton Shaheen's Solution](https://github.com/coltonshaheen/rock_paper_scissors) - [View in Browser](https://coltonshaheen.github.io/rock_paper_scissors/)
 - [Colton Shaheen's GUI Solution](https://github.com/coltonshaheen/rock_paper_scissors_gui) - [View in Browser](https://coltonshaheen.github.io/rock_paper_scissors_gui/)
-- [Sofie Dittmann's Console Solutions - Single and game](https://github.com/dolunaykiz/RockPaperScissors.git) - [UI Version](https://github.com/dolunaykiz/RockPaperScissors/blob/master/rock-paper-scissors-game-UI.html)
+- [Sofie Dittmann's Console Solutions - Single and game](https://github.com/dolunaykiz/RockPaperScissors.git) - [UI Version]
+- [AdesojiCodeMaster's Solution] (https://adesojicodemaster.github.io/RockPaperScissorsGame/) - [ view in Browser] (https://adesojicodemaster.github.io/RockPaperScissorsGame/)
+
+(https://github.com/dolunaykiz/RockPaperScissors/blob/master/rock-paper-scissors-game-UI.html)
 - [Sofie Dittmann's Console Solutions - Single and game](https://github.com/dolunaykiz/RockPaperScissors.git)
 - [Tremaine Johns' Solution](https://github.com/TremaineJ/rockPaperScissors)
 - [Mavioux' Solution](https://github.com/Mavioux/Rock-Paper-Scissors) - [View in Browser](https://mavioux.github.io/)
